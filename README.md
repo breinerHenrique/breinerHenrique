@@ -5,13 +5,13 @@ Eu sou o Breiner Henrique e utilizo esse repositório pricipalmente para meus la
 ##
 
 <div align="center">
-3
+
   <a href="https://github.com/breinerHenrique">
-4
+
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=breinerHenrique&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-5
+
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=breinerHenrique&layout=compact&langs_count=7&theme=dark"/>
-6
+
 </div>
   
   <div style="display: inline_block"><br>
