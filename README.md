@@ -1,6 +1,8 @@
 ## Olá, seja bem-vindo(a) ao meu repositório GitHub!
 
-Eu sou o Breiner Henrique e utilizo esse repositório pricipalmente para meus laboratórios de ferramentas DevOps, como Docker, Kubernetes, CI/CD, entre outros.
+Eu sou Breiner Henrique, profissional de TI com grande conhecimento em redes de computadores e infraestrutura. Recentemente focado nos estudos de ferramentas DevOps, como Docker, Kubernetes, CI/CD, IaC, entre outros.
+
+Este é o meu repositório de estudo e compartilhamento dos meu trabalhos pessoais, laboratório e projetos que ja realizei ou estou realizando.
 
 ##
 
