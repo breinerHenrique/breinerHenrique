@@ -23,7 +23,10 @@ Este é o meu repositório de estudo e compartilhamento dos meu trabalhos pessoa
   <img align="center" alt="Terraform" height="50" width="60" src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg">   
   <img align="center" alt="Ansible" height="70" width="80" src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg">                                       
   <img align="center" alt="VSCode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
-</div>
+  <img align="center" alt="Grafana" height="40" width="50" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+  <img align="center" alt="Prometheus" height="75" width="85" src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-ar21.svg">
+  <img align="center" alt="Zabbix" height="35" width="45" src="https://www.vectorlogo.zone/logos/zabbix/zabbix-icon.svg">                                                                                                                           
+ </div>
                                                                                                                                                       
   ##                                                                                                                                             
 <div> 
