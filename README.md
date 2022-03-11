@@ -33,3 +33,5 @@ Este é o meu repositório de estudo e compartilhamento dos meu trabalhos pessoa
   <a href = "mailto:breinerhenrique@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/breinerhenrique" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+
+  ![Snake animation](https://github.com/breinerHenrique/breinerHenrique/blob/output/github-contribution-grid-snake.svg)
